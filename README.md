@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymankayabasi&label=Profile%20views&color=0e75b6&style=flat" alt="suleymankayabasi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suleymankayabasi" alt="suleymankayabasi" /></a> </p>
-
 - 🔭 I’m currently working on [a](with n11.com)
 
 - 🌱 I’m currently learning **Spring.**
