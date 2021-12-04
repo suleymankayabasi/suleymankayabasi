@@ -7,21 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymankayabasi&label=Profile%20views&color=0e75b6&style=flat" alt="suleymankayabasi" /> </p>
 
-- 🔭 I’m currently working on [a](with n11.com)
+- 🔭 I’m currently working on TalentHub Java Bootcamp Student at n11.com
 
-- 🌱 I’m currently learning **Spring.**
-
-- 👯 I’m looking to collaborate on **b**
-
-- 🤝 I’m looking for help with **c**
+- 🌱 I’m currently learning Go
 
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **sleymankayabasi@gmail.com**
 
-- 📄 Know about my experiences [a](a)
-
-- ⚡ Fun fact **c**
+- ⚡ Fun fact: When I was a child, I tried to run away from the dog but I couldn't escape and I fell into the sea
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
