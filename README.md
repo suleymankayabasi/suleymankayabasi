@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymankayabasi&theme=tokyonight&" alt="suleymankayabasi" /></p>
 
-![giphy](https://user-images.githubusercontent.com/82765835/144721369-8ed6f7b6-9a03-4aff-ac9e-3f3c8cfcb0d5.gif)
+<p><img aling="right src"![giphy](https://user-images.githubusercontent.com/82765835/144721369-8ed6f7b6-9a03-4aff-ac9e-3f3c8cfcb0d5.gif)" /></p>
 
