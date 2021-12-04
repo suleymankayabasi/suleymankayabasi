@@ -9,13 +9,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suleymankayabasi" alt="suleymankayabasi" /></a> </p>
 
-- 🔭 I’m currently working on [with n11.com](with n11.com)
+- 🔭 I’m currently working on [a](with n11.com)
 
 - 🌱 I’m currently learning **Spring.**
+
+- 👯 I’m looking to collaborate on **b**
+
+- 🤝 I’m looking for help with **c**
 
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **sleymankayabasi@gmail.com**
+
+- 📄 Know about my experiences [a](a)
+
+- ⚡ Fun fact **c**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
