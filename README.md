@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](header.png)](username=suleymankayabasi)
 
 - 🔭 I’m Süleyman from Turkey, and I  currently working on ...
