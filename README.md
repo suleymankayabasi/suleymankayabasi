@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **TalentHub Java Bootcamp Student at n11.com**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go and Spring**
 
 - 💬 Ask me about **anything**
 
