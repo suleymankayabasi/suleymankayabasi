@@ -33,8 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymankayabasi&theme=tokyonight&" alt="suleymankayabasi" /></p>
 
 <div align="right">
-<img src="![avento](https://user-images.githubusercontent.com/82765835/144721245-f142616f-9cfa-406d-8325-47818f810cb0.gif)
-" align="right">
+<img src="!(https://user-images.githubusercontent.com/82765835/144721245-f142616f-9cfa-406d-8325-47818f810cb0.gif)" align="right">
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymankayabasi&show_icons=true&theme=tokyonight&locale=en" alt="suleymankayabasi" /></p>
