@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymankayabasi&label=Profile%20views&color=0e75b6&style=flat" alt="suleymankayabasi" /> </p>
 
-- 🔭 I’m currently working on **TalentHub Java Bootcamp Student at n11.com**
+- 🔭 I’m currently working on **TalentHub Java Bootcamp at n11.com**
 
 - 🌱 I’m currently learning **Go and Spring**
 
