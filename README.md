@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymankayabasi&theme=tokyonight&" alt="suleymankayabasi" /></p>
 
 <div align="right">
-<img src="<iframe src="https://giphy.com/embed/Pla0PNdXVHbqlEmiy4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pla0PNdXVHbqlEmiy4">via GIPHY</a></p>" align="right">
+<img src="https://giphy.com/gifs/Pla0PNdXVHbqlEmiy4" align="right">
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymankayabasi&show_icons=true&theme=tokyonight&locale=en" alt="suleymankayabasi" /></p>
