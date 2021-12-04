@@ -32,8 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymankayabasi&theme=tokyonight&" alt="suleymankayabasi" /></p>
 
-<div align="left">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="left">
+<div align="right">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="right">
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymankayabasi&show_icons=true&theme=tokyonight&locale=en" alt="suleymankayabasi" /></p>
