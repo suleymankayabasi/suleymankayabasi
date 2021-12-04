@@ -34,6 +34,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymankayabasi&show_icons=true&locale=en" alt="suleymankayabasi" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymankayabasi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymankayabasi&theme=gotham)
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymankayabasi&" alt="suleymankayabasi" /></p>
