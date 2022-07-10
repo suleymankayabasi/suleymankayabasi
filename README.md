@@ -2,7 +2,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<h1 align="center">Hi 👋, I'm Süleyman</h1>
+<h1 align="center">Hi 👋 I'm Süleyman</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
 - 🔭 I’m currently working at **n11.com**
