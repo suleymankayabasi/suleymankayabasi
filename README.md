@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sleymankayabasi@gmail.com**
 
-- ⚡ Fun fact: When I was a child, I tried to run away from the dog but I couldn't escape and I fell into the sea
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/suleymankayabasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suleymankayabasi" height="30" width="40" /></a>
