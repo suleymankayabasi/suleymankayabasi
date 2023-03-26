@@ -14,16 +14,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sleymankayabasi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suleyman-kayabasi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suleymankayabasi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/suleymankayabasi) 
 
 # 💻 Tech Stack:
-## Technology Stack
-
-<!-- https://github.com/tandpfun/skill-icons -->
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,oracle,mysql,mongodb,postgres,docker,openshift,couchbase,react)](https://skillicons.dev)
+<div align="left">
+[![My Skills](https://skillicons.dev/icons?i=java,python,flask,kotlin,spring,,mysql,mongodb,postgres,docker,jenkins,kubernetes,couchbase,,grafana,linux,react,git)](https://skillicons.dev)
 
 </div>
-  
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
