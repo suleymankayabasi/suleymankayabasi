@@ -20,9 +20,3 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,flask,kotlin,spring,maven,gradle,hibernate,mysql,mongodb,postgres,kafka,docker,jenkins,kubernetes,grafana,linux,react,git)](https://skillicons.dev)
 
 </div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
