@@ -7,7 +7,6 @@
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-238636?style=for-the-badge)
 ![Germany](https://img.shields.io/badge/Based_in_Germany-0d2340?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/5%2B_Years_Backend_Experience-3d1f00?style=for-the-badge)
-![Visa](https://img.shields.io/badge/Work_Visa_Transfer_Available-0d3026?style=for-the-badge)
 
 </div>
 
