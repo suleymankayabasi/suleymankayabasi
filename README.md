@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋 I'm Süleyman</h1>
-<h3 align="center">A passionate Backend Developer from Turkey</h3>
+## 🟢 Open to Work
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suleymankayabasi&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/suleyman-kayabasi">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-%2300B37E?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
+  </a>
+  <img src="https://img.shields.io/badge/Backend%20Engineer-Java%20%7C%20Kotlin%20%7C%20Spring-blue?style=for-the-badge&logo=spring&logoColor=white" alt="Backend Engineer"/>
+  <img src="https://img.shields.io/badge/Based%20in-D%C3%BCsseldorf%2C%20Germany-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Düsseldorf"/>
+</p>
 
-## 💫 About Me:
-🔭 I’m currently working in n11.com<br>👯 I am looking forward to collaborating with all of you<br>🤝 I’m looking for help with clean code and clean architecture<br>🌱 I’m currently learning Go & Kotlin<br>💬 Ask me about Backend Development
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sleymankayabasi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suleyman-kayabasi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suleymankayabasi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/suleymankayabasi) 
-
-# 💻 Tech Stack:
-<!-- https://github.com/tandpfun/skill-icons -->
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,flask,kotlin,spring,maven,gradle,hibernate,mysql,mongodb,postgres,kafka,docker,jenkins,kubernetes,grafana,linux,react,git)](https://skillicons.dev)
-
-</div>
+> 👋 I'm a **Senior Backend Engineer** (Java · Kotlin · Spring Boot · Reactive) with 5+ years of
+> experience, currently based in **Düsseldorf, Germany**.
+> Open to full-time Backend / Java / Kotlin engineering roles in Germany or remote (EU).
+> Available to start on a **Blue Card / work visa** transfer.
+>
+> 📬 [LinkedIn](https://linkedin.com/in/suleyman-kayabasi) · [Medium](https://medium.com/@suleymankayabasi)
