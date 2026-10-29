@@ -20,7 +20,7 @@
 
 Senior backend engineer with nearly 5 years of experience in high-traffic payments and online betting platforms. I build reliable, scalable distributed systems with Java/Kotlin, Spring Boot/WebFlux and Kafka, with a focus on reactive architecture.
 
-Based in Ankara, Türkiye. Looking for a full-time backend role in Europe and the UK.
+Looking for a full-time backend role in Europe and the UK.
 
 <br/>
 
